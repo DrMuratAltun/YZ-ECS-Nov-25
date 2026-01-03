@@ -1,0 +1,34 @@
+Ders 10: Kaggle Titanic Çalışması ve Yapay Zeka Uygulamaları
+Tarih: 14 Aralık 20251. Ana Konu: Kaggle Titanic Projesi
+
+Bu dersin ana odağı, veri bilimi ve makine öğrenimi alanında klasikleşmiş bir problem olan Kaggle Titanic Hayatta Kalma Tahmini yarışmasının incelenmesi ve uygulanmasıdır.
+
+* Kaggle Çalışma Not Defteri:https://www.kaggle.com/code/drmurataltun/ecs-yz-titanic-al-mas
+
+2. İlgili Görsel ve İlham Kaynakları
+Titanic konseptiyle bağlantılı, farklı teknolojilerin kullanıldığı görsel bir kaynak:
+
+* Walking the Titanic (UNREAL ENGINE Video):https://youtu.be/Y2tIFI9B5DE?si=ML7BS1mgcUoyqbNi
+
+3. Ek Yapay Zeka Araçları ve Platformlar
+Ders kapsamında bahsedilen, farklı alanlarda kullanılan güncel yapay zeka araçları ve kullanım amaçları:
+
+Grok Imagine
+Güncel olarak en başarılı video üretimi platformu.
+https://grok.com/imagine
+
+Marble
+Basit bir istemle (prompt) 3D dünyalar oluşturan ve keşfetme imkanı sunan araç.
+https://marble.worldlabs.ai/
+
+Suno
+Yalnızca bir metin istemiyle orijinal müzik oluşturma platformu.
+https://suno.com/
+
+Jammable
+Özel ses (custom voice) ile başka bir sesi eğitme ve birleştirme aracı.
+https://www.jammable.com/train
+
+Poe
+Çeşitli yapay zeka modellerine erişim sağlayan platform.
+https://poe.com/
