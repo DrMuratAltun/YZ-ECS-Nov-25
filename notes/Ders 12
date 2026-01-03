@@ -1,0 +1,18 @@
+ Ders 12: Uygulama Sınavı
+Tarih: 21 Aralık 2025
+
+Kaggle Uygulama Sınavı: https://www.kaggle.com/code/drmurataltun/ecs-yz-uygulama-s-nav💡 Ders Notları
+
+    AI Görsel Tespiti: Gemini’a @SynthID yazıp görsel yükleyince AI üretimi olup olmadığı tespit edilebiliyor.
+    İpucu: Analiz için "detect AI Product or not" şeklinde ek prompt eklemek gerekebiliyor.
+
+Gündem: Sektörü etkileyen Çip Krizi üzerine konuşuldu.🌐 Ek Kaynaklar
+
+    Türkiye Bankacılık Sektörü Verileri: https://sisy.ai/
+    AI Engineer Yol Haritası: https://roadmap.sh/ai-engineer
+    AI Sunum Aracı: https://www.kimi.com/slides
+    Ücretsiz Makale Özetleyici: https://www.alphaxiv.org/
+    Kitap Arşivi (PDF): https://libgen.li/index.php
+
+🛠️ Kullanım Stratejisi
+Libgen + Gemini Entegrasyonu:https://libgen.li/index.php sitesinden ilgili kitabın PDF'ini indir.PDF dosyasını Gemini'a yükle.Gemini'ı bir kılavuz, eğitim rehberi veya müfredat oluşturucu olarak kullanarak derinlemesine öğrenme sağla.
