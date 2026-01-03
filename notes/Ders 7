@@ -1,0 +1,32 @@
+Ders 7: Yapay Zeka ile Sanal Influencer Oluşturma ve Video Üretimi
+Tarih: 6 Aralık 2025
+
+
+
+1. Görsel Oluşturma (Gemini)
+Gemini üzerinden "Görsel Üretme" ve "Düşünen" (Thinking) modlarını seçtikten sonra aşağıdaki istemi (prompt) kullanarak karakteri oluşturun:Prompt: "Bu fotoğraftan influencer yarat bana. Kendi sanal influencer'ım olacak. Arka plan stüdyo veya sade bir ofis olsun. Doğal görünümü koru. Bunun videolaştırılacağını ve videodaki kişinin bir şeyler anlatacağını unutma, ona göre ayarla. Sinematik görünüm, 4K çözünürlük."
+2. Düzenleme ve Rötuş (Photoshop Web)
+Oluşturulan görseldeki yapay zeka filigranlarını (Gemini logosu vb.) temizlemek için tarayıcı eklentisini kullanın.
+ 
+    Araç: Adobe Photoshop Chrome Eklentisi https://chromewebstore.google.com/detail/adobe-photoshop/kjchkpkjpiloipaonppkmepcbhcncedo?hl=tr&utm_source=ext_sidebar&authuser=0
+    İşlem: Eklenti üzerinden Rötuş seçeneğini kullanarak görselin sağ alt köşesindeki Gemini logosunu silin.
+
+3. Videoya Dönüştürme ve Seslendirme (HeyGen) https://app.heygen.com/home?authuser=0
+Düzenlenen görseli konuşturmak ve hareketli bir videoya çevirmek için HeyGen platformunu kullanın.
+
+    Menüden Avatar > Create New > Start from Photo seçeneklerini takip edin.
+    Photoshop ile temizlediğiniz görseli yükleyin.
+    Sol panelden kendi sesinizi kaydedin veya bir ses dosyası yükleyerek videoyu oluşturun (Generate).
+
+Ek Araçlar ve Kaynaklar
+Ders sırasında bahsedilen diğer avatar oluşturma ve ses klonlama araçları:
+
+    Avatar Oluşturma Alternatifi:
+    Avaturn – Gerçekçi 3D avatarlar oluşturmak için. https://avaturn.me/?authuser=0
+
+Ses Klonlama ve Üretim (Voice Cloning/TTS):
+
+    MiniMax – Ses klonlama işlemleri için. https://www.minimax.io/audio/voices-cloning?authuser=0
+    ElevenLabs – Gerçekçi yapay zeka ses platformu https://elevenlabs.io/app/agents/tools?authuser=0
+
+https://studio.d-id.com/video-translate
